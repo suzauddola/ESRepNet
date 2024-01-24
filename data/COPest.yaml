@@ -1,0 +1,9 @@
+train: ./TTOP/train.txt
+val: ./TTOP/test.txt
+test: ./TTOP/test.txt
+
+# nc: 23
+# names: ['Adoxophyes orana', 'Anomala corpulenta', 'Black Brown cutworm moth', 'Black-winged termite', 'Brown bag moth', 'CUTWORM moth', 'Colaspoides opaca Jacoby', 'Coriolis scale', 'Deer Moth', 'Euproctis## varians', 'Flagella borer', 'Hook-wing moth', 'Hookworm moth', 'Marmorated bug', 'Moth Wax CICADA', 'Oil Tea bug', 'Paratrachelophorus nodicornis', 'SCHIMA superba borer', 'TRICHOLOMA tussock moth', 'Tea### Bag moth', 'Tea roll moth', 'Tea tussock moth', 'Toadstool moth']
+
+nc: 24
+names: ['Adoxophyes orana', 'Anomala corpulenta', 'Black Brown cutworm moth', 'Black-winged termite', 'Brown bag moth', 'CUTWORM moth', 'Colaspoides opaca Jacoby', 'Coriolis scale', 'Deer Moth', 'Euproctis varians', 'Flagella borer', 'Hook-wing moth', 'Hookworm moth', 'Marmorated bug', 'Moth Wax CICADA', 'Oil Tea bug', 'Paratrachelophorus nodicornis', 'SCHIMA superba borer', 'TRICHOLOMA tussock moth', 'Tea Bag moth', 'Tea bag moth', 'Tea roll moth', 'Tea tussock moth', 'Toadstool moth']
