@@ -1,7 +1,7 @@
 # ESRepNet: An Efficient Scaled Deep Learning Model for Tiny Agricultural Pest Detection
 
-[![Paper](https://img.shields.io/badge/ paper-Applied%20Intelligence%202026-blue)](https://doi.org/10.1007/s10489-026-07559-6)
-[![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/suzauddola/ESRepNet)
+[![Paper](https://doi.org/10.1007/s10489-026-07559-6)](https://doi.org/10.1007/s10489-026-07559-6)
+[![GitHub]([https://github.com/suzauddola/ESRepNet])](https://github.com/suzauddola/ESRepNet)
 
 Official implementation repository accompanying the paper:
 
